@@ -1,1 +1,2 @@
-# Evaluaci-n-Patrones-de-Estructuraci-n
+# Codigo escrito con intelliJ
+He intentado implementar el patron composite, el ejercicio no esta completo.
